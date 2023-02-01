@@ -1,0 +1,12 @@
+ProjectForU/.vscode/*
+ProjectForU/Library/*
+ProjectForU/Logs/*
+ProjectForU/obj/*
+ProjectForU/Packages/*
+ProjectForU/ProjectSettings/*
+ProjectForU/Temp/*
+ProjectForU/UserSettings/*
+ProjectForU/.sln
+ProjectForU/Assets/*
+ProjectForU/Assembly-CSharp.csproj
+!ProjectForU/Assets/Scripts/
